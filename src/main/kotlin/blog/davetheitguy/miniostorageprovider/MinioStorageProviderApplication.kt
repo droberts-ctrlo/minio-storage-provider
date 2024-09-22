@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class MinioStorageProviderApplication
 
 fun main(args: Array<String>) {
-	runApplication<MinioStorageProviderApplication>(*args)
+    runApplication<MinioStorageProviderApplication>(*args)
 }
